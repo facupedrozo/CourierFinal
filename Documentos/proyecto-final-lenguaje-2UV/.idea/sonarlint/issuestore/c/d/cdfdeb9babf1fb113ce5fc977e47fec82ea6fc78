@@ -1,0 +1,22 @@
+
+x
+java:S1192"]Define a constant instead of duplicating this literal "----------------------------" 3 times.(şæ£ñşÿÿÿÿ
+p
+java:S1450"URemove the "opcion" field and declare it as a local variable in the relevant methods.(øºúøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ùáµ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(òË°_
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ı´åê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(û‘ãùüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ù„÷µıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ô®Šıÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ë³ë
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿ
+c
+java:S18712"HThis case's code block is the same as the block for the case on line 44.(©‹Ä…úÿÿÿÿ
+f	java:S128/"LEnd this switch case with an unconditional break, return or throw statement.(íĞï°ùÿÿÿÿ
+f	java:S128,"LEnd this switch case with an unconditional break, return or throw statement.(ìÔİçúÿÿÿÿ
+a	java:S128)"LEnd this switch case with an unconditional break, return or throw statement.(¡È›
+f	java:S128$"LEnd this switch case with an unconditional break, return or throw statement.(ÙÆäÊÿÿÿÿÿ
+7	java:S131#""Add a default case to this switch.(°€àâ

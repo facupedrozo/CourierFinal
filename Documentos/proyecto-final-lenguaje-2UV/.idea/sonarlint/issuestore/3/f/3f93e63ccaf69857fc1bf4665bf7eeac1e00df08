@@ -1,0 +1,44 @@
+
+w
+java:S1450"URemove the "opcion" field and declare it as a local variable in the relevant methods.(ψΊϊψÿÿÿÿ8ρφό—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ί“µÒωÿÿÿÿ8£ρφό—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(»‡ςΧ8£ρφό—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªφ»ώÿÿÿÿ8£ρφό—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ΘΙΝ²8£ρφό—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ª”ά„8£ρφό—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Φ„ρβωÿÿÿÿ8¤ρφό—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Κσ¨αύÿÿÿÿ8¤ρφό—1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ργ–Λώÿÿÿÿ8¤ρφό—1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ώζ£ρώÿÿÿÿ8¤ρφό—1
+m	java:S128x"LEnd this switch case with an unconditional break, return or throw statement.(©‹Δ…ϊÿÿÿÿ8¥ρφό—1
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(»­Ζι8¥ρφό—1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(Ψªβ¦ύÿÿÿÿ8¥ρφό—1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(σ¦ξυϊÿÿÿÿ8¥ρφό—1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ζ®§†ϊÿÿÿÿ8¦ρφό—1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(έ¤ΫΊϊÿÿÿÿ8¦ρφό—1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(‡α£ΰύÿÿÿÿ8¦ρφό—1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(γρς¨ύÿÿÿÿ8¦ρφό—1
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(σΤ³ψ8¦ρφό—1
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(‰άλ‰ώÿÿÿÿ8§ρφό—1
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(εΏ•¶ύÿÿÿÿ8¨ρφό—1
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(εΏ•¶ύÿÿÿÿ8¨ρφό—1
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(²¥Ύ‡ψÿÿÿÿ8©ρφό—1
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(ϊª©δ8©ρφό—1
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(ϋΜΏτόÿÿÿÿ8©ρφό—1
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(έ¤ΫΊϊÿÿÿÿ8ªρφό—1
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(‡α£ΰύÿÿÿÿ8ªρφό—1
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(γρς¨ύÿÿÿÿ8ªρφό—1
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(σΤ³ψ8ªρφό—1
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(‰άλ‰ώÿÿÿÿ8«ρφό—1
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(ο»·½8«ρφό—1
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(Γδωσωÿÿÿÿ8¬ρφό—1
+U	java:S106y"9Replace this use of System.out or System.err by a logger.(ΒΩ‹ώ8¬ρφό—1
+U	java:S106|"9Replace this use of System.out or System.err by a logger.(ρψΆ“8¬ρφό—1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ώψϋÿÿÿÿ8­ρφό—1
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(όΕθύ8­ρφό—1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ΰοϊ8®ρφό—1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(Β¥φέ8Κωό—1
+G
+java:S1128"*Remove this unused import 'model.Cliente'.(Ϊτ8Οβψό—1
+γ
+java:S6541"ΖA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 113 to 64, Complexity from 16 to 14, Nesting Level from 3 to 2, Number of Variables from 20 to 6.(‰ϋΩ*8®ρφό—1

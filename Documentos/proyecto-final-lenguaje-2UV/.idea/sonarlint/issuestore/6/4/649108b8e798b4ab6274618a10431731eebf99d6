@@ -1,0 +1,26 @@
+
+p
+java:S1450"URemove the "opcion" field and declare it as a local variable in the relevant methods.(øºúøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ß“µÒùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öÔ™ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­®İ¶
+N	java:S106"9Replace this use of System.out or System.err by a logger.(çëÂ­
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´Å¶ƒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²şóúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ùåªÏùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(»­Æé
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Øªâ¦ıÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(Ï“ô§øÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(óöÔ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(£¨íÕ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(×ÔÛ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(Âíûúøÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(¨Ã‹õ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(­°²±
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(²¥¾‡øÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(Ê¦ßîúÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(æÛôç
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(¬Ãïâ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(ŠãŒ›ÿÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(Â¥öİ

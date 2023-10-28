@@ -1,0 +1,10 @@
+
+X	java:S125>"<This block of commented-out lines of code should be removed.(þüöê8”¬Êó™1
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹ÄŽ®
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(âÖ‡
+R	java:S125‡"<This block of commented-out lines of code should be removed.(Œ»Ð
+T	java:S106˜"9Replace this use of System.out or System.err by a logger.(å„Óùÿÿÿÿ
+K
+java:S1068"0Remove this unused "lineaPedidos" private field.(æýüüÿÿÿÿ
+O
+java:S1068"4Remove this unused "sectorRepository" private field.(³ƒ˜ûÿÿÿÿ

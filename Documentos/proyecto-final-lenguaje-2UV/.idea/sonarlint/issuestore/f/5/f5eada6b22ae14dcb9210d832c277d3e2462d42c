@@ -1,0 +1,11 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Áó´8ÖÓ­Û”1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹Ô¬ôıÿÿÿÿ8×Ó­Û”1
+]	java:S125"<This block of commented-out lines of code should be removed.(Ã¥û®úÿÿÿÿ8ÚÓ­Û”1
+T	java:S106)"9Replace this use of System.out or System.err by a logger.(íİ›!8ŞÓ­Û”1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(¢’Úîøÿÿÿÿ8ßÓ­Û”1
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(şÅÜÿÿÿÿÿ8âÓ­Û”1
+G
+java:S1128"*Remove this unused import 'model.Cliente'.(Úôˆ8æÓ­Û”1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8æÓ­Û”1

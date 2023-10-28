@@ -1,0 +1,19 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ»ÊP
+N	java:S106"9Replace this use of System.out or System.err by a logger.(é¡±¬
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(‘©ï×üÿÿÿÿ
+U
+java:S1117(":Rename "pedido" which hides the field declared at line 18.(åœïÖûÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(à–´‹øÿÿÿÿ
+P
+java:S11176":Rename "pedido" which hides the field declared at line 18.(…®‘¹
+G
+java:S1128"*Remove this unused import 'model.Cliente'.(Úôˆ8‚ô¿ô™1
+O
+java:S1068"4Remove this unused "sectorRepository" private field.(³ƒ˜ûÿÿÿÿ
+Q
+java:S1068";Remove this unused "transportistaRepository" private field.(˜“¶®
+Q
+java:S1068"6Remove this unused "empleadoRepository" private field.(„ˆ–äüÿÿÿÿ
+?
+java:S1068"*Remove this unused "pedido" private field.(Ø­Å5

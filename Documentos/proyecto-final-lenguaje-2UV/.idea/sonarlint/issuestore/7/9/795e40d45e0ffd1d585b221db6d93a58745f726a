@@ -1,0 +1,84 @@
+
+“
+java:S1192­"pDefine a constant instead of duplicating this literal "El pedido no se encontrÃ³, intentelo nuevamente" 5 times.(£³ÁÇÿÿÿÿÿ8¶îœô™1
+
+java:S11927"]Define a constant instead of duplicating this literal "----------------------------" 7 times.(şæ£ñşÿÿÿÿ8·îœô™1
+T
+java:S2589X"7Remove this expression which always evaluates to "true"(”â¤û8âïœô™1
+w
+java:S1450"URemove the "opcion" field and declare it as a local variable in the relevant methods.(øºúøÿÿÿÿ8´Óîó™1
+„
+java:S1450"gRemove the "seguirAgregandoProductos" field and declare it as a local variable in the relevant methods.(°ÊŒò8¶Óîó™1
+b	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(ŠÊ®¥øÿÿÿÿ8¹Óîó™1
+X
+java:S1172"6Remove this unused method parameter "empleadoService".(ŠÊ®¥øÿÿÿÿ8»Óîó™1
+o
+java:S3776*"RRefactor this method to reduce its Cognitive Complexity from 44 to the 15 allowed.(ñ¤É8ÂÓîó™1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ß“µÒùÿÿÿÿ8ÍÓîó™1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ê±«Óüÿÿÿÿ8ÍÓîó™1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(¯ÓÂÎ8ÍÓîó™1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(çó»ÿÿÿÿÿ8ÎÓîó™1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(±ÈÒÅşÿÿÿÿ8ÏÓîó™1
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(ãƒß¡ùÿÿÿÿ8ĞÓîó™1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(ú²Ì©ıÿÿÿÿ8ÑÓîó™1
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(ÑÏæí8ÒÓîó™1
+T	java:S1064"9Replace this use of System.out or System.err by a logger.(ó˜|8ÓÓîó™1
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(½«„øÿÿÿÿ8ÓÓîó™1
+T	java:S1066"9Replace this use of System.out or System.err by a logger.(×£8ÔÓîó™1
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿ8ğœô™1
+n	java:S128à"LEnd this switch case with an unconditional break, return or throw statement.(ó†ûÿÿÿÿ8ğœô™1
+>	java:S1319""Add a default case to this switch.(°€àâ8‘ğœô™1
+T	java:S106;"9Replace this use of System.out or System.err by a logger.(øı™j8‘ğœô™1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(›ƒÔıÿÿÿÿ8’ğœô™1
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(áæĞ8”ğœô™1
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿ8•ğœô™1
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿ8—ğœô™1
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ò¾ß«ıÿÿÿÿ8™ğœô™1
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿ8™ğœô™1
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿ8›ğœô™1
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(˜†¼ñøÿÿÿÿ8œğœô™1
+h
+java:S1764X"KCorrect one of the identical sub-expressions on both sides of operator "&&"(”â¤û8Ÿğœô™1
+T	java:S106_"9Replace this use of System.out or System.err by a logger.(“ñQ8¤ğœô™1
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(šîÅ²8¥ğœô™1
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿ8¨ğœô™1
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(Ç¨İíúÿÿÿÿ8©ğœô™1
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(µÊ¤¤8©ğœô™1
+U	java:S106l"9Replace this use of System.out or System.err by a logger.(¸ù¨¯8«ğœô™1
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿ8¬ğœô™1
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(–¤Õ³úÿÿÿÿ8¯ğœô™1
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(–¤Õ³úÿÿÿÿ8°ğœô™1
+Z	java:S106~"9Replace this use of System.out or System.err by a logger.(Ÿ™ÃÛùÿÿÿÿ8°ğœô™1
+[	java:S106€"9Replace this use of System.out or System.err by a logger.(øØ¼Ûıÿÿÿÿ8±ğœô™1
+[	java:S106‰"9Replace this use of System.out or System.err by a logger.(œšœíıÿÿÿÿ8´ğœô™1
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(»™ø–ÿÿÿÿÿ8µğœô™1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÂ¨şûÿÿÿÿ8µğœô™1
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(ªÅòøÿÿÿÿ8·ğœô™1
+V	java:S106—"9Replace this use of System.out or System.err by a logger.(ÿÖ·8·ğœô™1
+[	java:S106›"9Replace this use of System.out or System.err by a logger.(´êµÑıÿÿÿÿ8¸ğœô™1
+V	java:S106 "9Replace this use of System.out or System.err by a logger.(ã²×Ó8ºğœô™1
+V	java:S106¢"9Replace this use of System.out or System.err by a logger.(ØÍ¡8ºğœô™1
+U	java:S106¦"9Replace this use of System.out or System.err by a logger.(‘·øt8»ğœô™1
+[	java:S106«"9Replace this use of System.out or System.err by a logger.(¬¢²öùÿÿÿÿ8½ğœô™1
+[	java:S106­"9Replace this use of System.out or System.err by a logger.(£³ÁÇÿÿÿÿÿ8¾ğœô™1
+[	java:S106±"9Replace this use of System.out or System.err by a logger.(›Â¯ÿÿÿÿÿ8¾ğœô™1
+[	java:S106¶"9Replace this use of System.out or System.err by a logger.(Âİ»¥ùÿÿÿÿ8Áğœô™1
+[	java:S106¸"9Replace this use of System.out or System.err by a logger.(£³ÁÇÿÿÿÿÿ8Âğœô™1
+V	java:S106½"9Replace this use of System.out or System.err by a logger.(ÓİûÊ8Âğœô™1
+[	java:S106¿"9Replace this use of System.out or System.err by a logger.(Óµ»ğıÿÿÿÿ8Ãğœô™1
+[	java:S106Ä"9Replace this use of System.out or System.err by a logger.(èî«èøÿÿÿÿ8Æğœô™1
+[	java:S106Æ"9Replace this use of System.out or System.err by a logger.(£³ÁÇÿÿÿÿÿ8Çğœô™1
+V	java:S106Ë"9Replace this use of System.out or System.err by a logger.(¤Òæµ8Èğœô™1
+V	java:S106Ó"9Replace this use of System.out or System.err by a logger.(µÏÔ÷8Ìğœô™1
+[	java:S106Ú"9Replace this use of System.out or System.err by a logger.(¤Ÿãÿÿÿÿÿ8Îğœô™1
+U	java:S106Û"9Replace this use of System.out or System.err by a logger.(İÙı48Ïğœô™1
+[	java:S106İ"9Replace this use of System.out or System.err by a logger.(£³ÁÇÿÿÿÿÿ8Ğğœô™1
+V	java:S106â"9Replace this use of System.out or System.err by a logger.(¼€ÜÅ8Ñğœô™1
+V	java:S106ç"9Replace this use of System.out or System.err by a logger.(ÎÇíğ8Óğœô™1
+[	java:S106í"9Replace this use of System.out or System.err by a logger.(£³ÁÇÿÿÿÿÿ8Øğœô™1
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8ıÓîó™1
+V
+java:S1068"4Remove this unused "sectorRepository" private field.(³ƒ˜ûÿÿÿÿ8ıÓîó™1
+ä
+java:S6541*"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 184 to 64, Complexity from 29 to 14, Nesting Level from 4 to 2, Number of Variables from 40 to 6.(ñ¤É8ıÓîó™1
